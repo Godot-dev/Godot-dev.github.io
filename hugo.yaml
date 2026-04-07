@@ -3,6 +3,11 @@ languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
 
+# linked to https://gohugo.io/host-and-deploy/host-on-github-pages/
+caches:
+  images:
+    dir: :cacheDir/images
+
 # Multilingual configuration
 defaultContentLanguage: "fr"
 defaultContentLanguageInSubdir: false
