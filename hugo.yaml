@@ -56,9 +56,9 @@ languages:
       about:
         title: "À Propos de Moi"
         content: |-
-          Je suis actuellement un ingénieur informatique consultant à l'entreprise Aubay-Solutec. J'ai une formation en informatique et en mathématiques, et je m'intéresse vivement à l'intersection de la technologie et de l'art. Je travaille actuellement comme développeuse de logiciels chez [exemple org.](https://example.com) à San Francisco, CA.
+          Je suis actuellement un ingénieur informatique consultant à l'entreprise Aubay-Solutec. Ma mission actuelle est à Enedis, où je suis OPS sur une application critque.
 
-          Je travaille actuellement sur un projet qui sera utilisé pour aider les gens à trouver le meilleur moyen de se déplacer dans la ville.
+          
         skills:
           title: "Voici quelques technologies avec lesquelles j'ai travaillé récemment:"
       experience:
